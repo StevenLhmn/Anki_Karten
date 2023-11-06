@@ -1,2 +1,2 @@
 # Anki_Karten
-Hier werden Anki Lernjarten gesammelt.
+Hier werden Anki Lernkarten gesammelt.
